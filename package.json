@@ -1,0 +1,23 @@
+{
+  "name": "kovs",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "npx eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kblh/kovs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kblh/kovs/issues"
+  },
+  "homepage": "https://github.com/kblh/kovs#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
