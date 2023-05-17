@@ -5,7 +5,7 @@ layout: 'layouts/home.html'
 
 lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 
-## OU JESSSS - JOP !!!! huh
+## OU JESSSS
 
 ### Komorní orchestr Vlasty Škampové
 
@@ -23,6 +23,8 @@ lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 - https://preview.colorlib.com/#sun
 - https://blog.tubikstudio.com/creative-web-design-for-events/
 - https://github.com/kblh/kovs
+- [11ty + Github](https://dev.to/ndesmic/making-a-personal-site-from-start-to-publish-with-eleventy-and-github-2ld4)
+
 
 ### Colors
 - [Colors](https://coolors.co/2b2b2b-f25b5b-367ba6-ffc103-fdfdfd)
