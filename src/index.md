@@ -24,7 +24,7 @@ lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 - https://preview.colorlib.com/#sun
 - https://blog.tubikstudio.com/creative-web-design-for-events/
 - https://github.com/kblh/kovs
-
+- [yt 11ty + Github](https://www.youtube.com/watch?v=x4rRO12swrw&t=391s)
 
 ### Colors
 - [Colors](https://coolors.co/2b2b2b-f25b5b-367ba6-ffc103-fdfdfd)
