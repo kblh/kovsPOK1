@@ -10,3 +10,6 @@ main {
   width: var(--size-md);
   margin: auto;
 }
+
+[aria-current="page"],
+[data-state="active"] { font-weight: bold; }

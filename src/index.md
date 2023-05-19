@@ -1,19 +1,21 @@
 ---
-title: 'Toto je HomePage'
+title: 'Úvod'
 layout: 'layouts/home.html'
+tags: 'nav'
 ---
 
 lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 
-## OU JESSSS ooooooooooo
-
 ### Komorní orchestr Vlasty Škampové
 
-- Úvod
-- O nás
-- Fotogalerie
-- Koncerty
-- Kontakt
+-a-
+-b-
+
+{% for item in collections.koncerty %}
+  <p>--- <a href="{{ item.url }}">{{ item.data.title }}</a></p>
+{% endfor %}
+
+
 
 ### Odkazy
 
@@ -25,6 +27,7 @@ lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 - https://blog.tubikstudio.com/creative-web-design-for-events/
 - https://github.com/kblh/kovs
 - [yt 11ty + Github](https://www.youtube.com/watch?v=x4rRO12swrw&t=391s)
+- [img gallery](https://www.sliderrevolution.com/resources/css-gallery/)
 
 ### Colors
 - [Colors](https://coolors.co/2b2b2b-f25b5b-367ba6-ffc103-fdfdfd)
