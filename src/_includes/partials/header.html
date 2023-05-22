@@ -29,6 +29,12 @@
       {% endfor %}
     </ul>
   </nav>
+
+  <p>Current page: {{ page.url }}</p>
+  <p>baseHref: {{baseHref}}</p>
+  <p>htmlBaseUrl: {{htmlBaseUrl}}</p>
+  <p>{{ "/test/" | htmlBaseUrl }}</p>
+  <p>{{ page.url | htmlBaseUrl }}</p>
  
 </header>
 <hr>
